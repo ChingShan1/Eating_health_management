@@ -1,6 +1,6 @@
 import pyrebase
 config = {
-      "apiKey": "AIzaSyBEdoDCZxSAAaEhUGhSMvAW_FOWNh2JOjw",
+      "apiKey": ,
       "authDomain": "foodmanager-c10fd.firebaseapp.com",
       "projectId": "foodmanager-c10fd",
       "storageBucket": "foodmanager-c10fd.appspot.com",

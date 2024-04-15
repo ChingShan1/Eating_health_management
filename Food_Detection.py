@@ -65,7 +65,7 @@ Isupdate_column_name = "IsUpdate"
 Pending_column_name = "Pending_image"
 
 firebase_url = "https://foodmanager-c10fd-default-rtdb.firebaseio.com/"
-key="AIzaSyBEdoDCZxSAAaEhUGhSMvAW_FOWNh2JOjw"
+key=
 
 try:
     
